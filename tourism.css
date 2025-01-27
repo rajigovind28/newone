@@ -1,0 +1,15 @@
+.background-container{
+    background-image: url(https://ik.imagekit.io/tjb4qrzc5/shan/tourism.png?updatedAt=1737787048078);
+    height: 100vh;
+    width: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.tourism1-container{
+    background-image: url(https://ik.imagekit.io/tjb4qrzc5/shan/Tourism%20taj-mahal.jpg?updatedAt=1737781697168);
+    height: 100vh;
+    width: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
